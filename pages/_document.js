@@ -30,9 +30,9 @@ class MyDocument extends Document {
             rel="stylesheet"
           />
           <link rel="stylesheet" href="https://unpkg.com/swiper@6.6.2/swiper-bundle.min.css" />
-          <meta property="og:title" content="Commerce.js | Demo storefront" />
+          <meta property="og:title" content="Not so Ape | Demo storefront" />
           <meta property="og:image" content="https://cdn.chec.io/email/assets/marketing/demo-preview.png" />
-          <meta property="og:description" content="A custom, open source demo storefront built with Next.js and Commerce.js. Take a look!" />
+          <meta property="og:description" content="A demo storefront built with Next.js and Commerce.js." />
           <meta property="og:url" content="https://commercejs-demo-store.netlify.app" />
           <meta property="twitter:title" content="Commerce.js | Demo storefront" />
           <meta name="twitter:creator" content="@commercejs" />
