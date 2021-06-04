@@ -6,7 +6,7 @@ const Footer = () => (
       <div className="row">
         <div className="col-12 col-sm-6 col-md-4">
           <p className="font-family-secondary font-size-display1 mb-4">
-            Commerce.js
+            Not so Ape
           </p>
           <div className="d-flex font-color-medium mb-5 pb-3 pb-md-0 mb-md-0">
             <div className="pr-5">
@@ -57,7 +57,7 @@ const Footer = () => (
                 Twitter
               </a>
               <a
-                href="https://www.instagram.com/commerce.js/"
+                href="https://www.instagram.com/notsoapeeurope/"
                 className="d-block font-color-medium"
                 target="_blank"
               >
@@ -66,11 +66,11 @@ const Footer = () => (
             </div>
             <div>
               <a
-                href="https://angel.co/company/chec"
+                href="https://business.facebook.com/notsoapeeurope/"
                 className="mb-3 d-block font-color-medium"
                 target="_blank"
               >
-                Angel
+                Facebook
               </a>
               <a
                 href="https://www.linkedin.com/company/chec-chec-commerce-inc.-/"
